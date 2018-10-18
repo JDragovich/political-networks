@@ -1,7 +1,7 @@
 {
   "name": "political-networks",
   "version": "1.0.0",
-  "description": "political network utility library for election game",
+  "description": "Political network utility library for election games",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
